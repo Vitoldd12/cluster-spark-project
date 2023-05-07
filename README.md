@@ -16,6 +16,7 @@
 ### Project. Works performed.
 Вдалось реалізувати наступне:
 1. Встановити на Google Cloud (GCP) віртуальні машину Ubuntu based Virtual Machine (Machine type:e2-standard-4; Intel Broadwell; 50Gb)
+ ![Create_Instance_GCP](/images/Create_Instance_GCP.JPG)
 2. Встановити Python та Java
 3. Встановити Hadoop, HDFS, YARN.
 4. Встановити Docker, PostgreSQL, Hive
