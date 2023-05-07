@@ -18,13 +18,18 @@
 1. Встановити на Google Cloud (GCP) віртуальні машину Ubuntu based Virtual Machine (Machine type:e2-standard-4; Intel Broadwell; 50Gb)
  ![Create_Instance_GCP](/images/Create_Instance_GCP.JPG)
 2. Встановити Python та Java
+ ![Py+Java](/images/Py+Java.JPG)
 3. Встановити Hadoop, HDFS, YARN.
+ ![JPS](/images/JPS.JPG)
 4. Встановити Docker, PostgreSQL, Hive
+ ![Docker](/images/Docker.JPG)
 5. Встановити Spark 3
 6. Запустити кластер та переглянути його роботу через Web UI
-7. Написати та автоматизувати його розгортання та згортання (файл).
+ ![Cluster](/images/webUI.JPG)
+7. Написати та автоматизувати його розгортання та згортання (файл 'basic.py').
 8. Потренуватись та розібратись з HDFS.
-9. Під'єднати його для запису в S3 AWS (файл).
+9. Під'єднати його для запису в S3 AWS (файл 'copy_files_to_s3.ksh').
+ ![AWS](/images/S3_bucket.JPG)
 
 Крім того паралельно йде курс по программуванню STM32. Частина датчиків приєхала і працюю над їх підєднанням до плат на осові ESP32 та STM32.
 
